@@ -1,0 +1,9 @@
+body {
+  background-color: lightgreen;
+}
+
+.btn {
+  border: 1px solid gray;
+  background-color: lightgray;
+  margin-bottom: 50px;
+}
